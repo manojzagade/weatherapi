@@ -1,3 +1,6 @@
 # weatherapi
 <br>
-weather api 
+weather api
+Author- Manoj Zagade
+
+
